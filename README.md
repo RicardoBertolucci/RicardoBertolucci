@@ -26,7 +26,7 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![C Sharp](https://img.shields.io/badge/CSharp-964d92?style=for-the-badge&logo=csharp&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/NodeJS-964d92?style=for-the-badge&logo=nodeJS&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node-7cb73f?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
   
 <img display="flex" align="left" width="50%" height="220px" src="https://github-readme-stats.vercel.app/api?username=RicardoBertolucci&show_icons=true&count_private=true&hide_border=true&title_color=537ce5&icon_color=537ce5&text_color=d0d0d0&bg_color=0d1117" alt="Ricardo Bertolucci github stats" />
 <img align="left" width="35%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&hide_border=true&title_color=537ce5&text_color=d0d0d0&bg_color=0d1117" />
