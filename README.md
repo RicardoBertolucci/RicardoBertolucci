@@ -39,4 +39,11 @@
 <img display="flex" align="left" width="50%" height="220px" src="https://github-readme-stats.vercel.app/api?username=RicardoBertolucci&show_icons=true&count_private=true&hide_border=true&title_color=537ce5&icon_color=537ce5&text_color=d0d0d0&bg_color=0d1117" alt="Ricardo Bertolucci github stats" />
 <img align="left" width="41%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&hide_border=true&title_color=537ce5&text_color=d0d0d0&bg_color=0d1117" />
 
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RicardoBertolucci}/count.svg" /></p> 
+  <br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b38f8&height=120&section=footer"/>
