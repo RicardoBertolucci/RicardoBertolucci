@@ -6,13 +6,13 @@
 
 # ✨ You will find here 
 <ul>
-  <li>🧑‍💻 Projetos de frontend</li>
+  <li>🧑‍💻 Project front-end</li>
   </br>
-  <li>🤖 Projetos de backend</li>
+  <li>🤖 Project back-end</li>
   </br>
-  <li>📑️ Meus trabalhos da faculdade</li>
+  <li>📑️ My college work</li>
   </br>
-  <li>🖥️ Alguns códigos aleatórios</li>
+  <li>🖥️ Random codes</li>
 </ul>
 
 ---
