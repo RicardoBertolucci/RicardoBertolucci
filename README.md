@@ -42,7 +42,7 @@
 </br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RicardoBertolucci}/count.svg" /></p> 
+  <p align="center"><img align="center" align="end" src="https://profile-counter.glitch.me/{RicardoBertolucci}/count.svg" /></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b38f8&height=120&section=footer"/>
