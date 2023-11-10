@@ -27,6 +27,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![C Sharp](https://img.shields.io/badge/CSharp-964d92?style=for-the-badge&logo=csharp&logoColor=white)
   ![Node](https://img.shields.io/badge/Node-7cb73f?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
   
 ---
 
