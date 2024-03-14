@@ -6,7 +6,7 @@
 
 # ✨ You will find here 
 <ul>
-  <li>🧑‍💻 Project front-end</li>
+  <li>🧑 Project front-end</li>
   </br>
   <li>🤖 Project back-end</li>
   </br>
