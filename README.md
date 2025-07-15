@@ -8,8 +8,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor full stack com experiência em **projetos de captação, sites performáticos e sistemas web escaláveis**.  
-Atuo com **JavaScript, PHP, React, Node.js, Symfony, MySQL e MongoDB**, sempre buscando aplicar boas práticas como **Clean Code, SOLID e CI/CD**.
+Sou desenvolvedor **Full Stack** formado em Ciência da Computação pela Universidade Presbiteriana Mackenzie.  
+Tenho experiência em **sites performáticos**, **sistemas escaláveis** e **projetos de captação**, atuando com **JavaScript**, **PHP**, **React**, **Node.js**, **Symfony**, **MySQL** e **MongoDB**.
+
+Aplico boas práticas como **Clean Code**, **SOLID** e **CI/CD**, focando em **interfaces otimizadas**, **integrações eficientes** e soluções que geram **valor real para o negócio**.
 
 ---
 
