@@ -74,11 +74,9 @@ Atuo com **JavaScript, PHP, React, Node.js, Symfony, MySQL e MongoDB**, sempre b
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoBertolucci&theme=dark&hide_border=true&ring=537ce5&fire=7b38f8&currStreakLabel=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RicardoBertolucci&theme=darkhub&title=Commit,Stars,Repositories,Followers,PullRequest&margin-w=15&no-frame=true"/>
+  <img 
+    width="100%" 
+    src="https://github-profile-trophy.vercel.app/?username=RicardoBertolucci&theme=darkhub&title=Commit,Stars,Repositories,Followers,PullRequest&no-frame=true&row=1&column=5&margin-w=20"/>
 </p>
 
 <p align="center">
