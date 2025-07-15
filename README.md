@@ -87,8 +87,11 @@ Aplico boas práticas como **Clean Code**, **SOLID** e **CI/CD**, focando em **i
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RicardoBertolucci/count.svg"/>
-</p>
+## 📊 Visitas no Perfil
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRicardoBertolucci&count_bg=%237b38f8&title_bg=%23454545&icon=&icon_color=%23FFFFFF&title=visitas&edge_flat=false)
+
+---
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b38f8&height=120&section=footer"/>
