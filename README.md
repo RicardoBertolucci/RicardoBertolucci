@@ -110,12 +110,19 @@ Formado em ciência da computação pelo Mackenzie. Sou um desenvolvedor em fase
 
 ### 📊 Estatísticas
 
-<div align="center">
+<p align="left">
+  <img 
+    height="140"
+    src="https://github-readme-stats-rho-eight-64.vercel.app/api?username=RicardoBertolucci&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+  />
+  <img 
+    height="170"
+    src="https://github-readme-stats-rho-eight-64.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RicardoBertolucci&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+
 
 
