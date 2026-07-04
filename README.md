@@ -65,10 +65,10 @@ Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor com 
 <p align="left">
   <img 
     height="140"
-    src="https://github-readme-stats-irld.vercel.app/api?username=RicardoBertolucci&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+    src="https://github-readme-stats-chi-ashy-34.vercel.app/api?username=RicardoBertolucci&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
   />
   <img 
     height="170"
-    src="https://github-readme-stats-irld.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-chi-ashy-34.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
