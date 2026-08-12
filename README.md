@@ -1,9 +1,8 @@
 # 👨🏻‍💻 Ricardo Bertolucci
 
-**`Desenvolvedor Back-end (Node.js) — foco em Fintechs, Bancos e Tecnologia`**
+**`Desenvolvedor Full Stack (React, Next.js, Node.js)`**
 
-Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor com foco em **Back-end (Node.js)**. Construo APIs, modelo regras de negócio e aplico boas práticas de desenvolvimento — autenticação, testes e containerização. Meu portfólio é direcionado ao **setor financeiro**: fintechs, bancos e empresas de tecnologia.
-
+Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor **Full Stack** com experiência prática em front-end (**React, Next.js**) e contato com back-end em **Node.js**. Construo interfaces modernas e performáticas, e estou aprofundando back-end através de uma trilha própria de projetos, com foco em consolidar fundamentos.
 
 <p align="left">
     <a href="https://github.com/RicardoBertolucci?tab=repositories&sort=stargazers">
@@ -33,11 +32,11 @@ Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor com 
 
 ### 🎯 Foco atual
 
-- 🏦 Back-end para **fintechs, bancos e empresas de tecnologia**
-- 🧱 APIs REST com **Node.js, Express, MongoDB, PostgreSQL, Docker e JWT**
-- 🧪 Boas práticas: testes automatizados (Jest), documentação (Swagger) e CI
+- 💻 Front-end com **React, Next.js e Tailwind CSS**
+- 🌱 Aprofundando back-end em **Node.js** através de uma trilha própria de projetos
+- 🧠 Boas práticas: código limpo, versionamento com Git
 - 🦀 Estudando **Rust** (Bootcamp Santander DIO)
-- 📈 Projeto-destaque em construção: **Finance API**
+- 📌 Em busca de oportunidades como desenvolvedor **Full Stack** júnior/pleno
 
 ---
 
@@ -45,15 +44,14 @@ Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor com 
 
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
@@ -75,3 +73,18 @@ Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor com 
     src="https://github-readme-stats-chi-ashy-34.vercel.app/api/top-langs/?username=RicardoBertolucci&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
+
+<p align="left">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=RicardoBertolucci&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoBertolucci/RicardoBertolucci/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoBertolucci/RicardoBertolucci/output/dist/snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/RicardoBertolucci/RicardoBertolucci/output/dist/snake.svg" />
+</picture>
