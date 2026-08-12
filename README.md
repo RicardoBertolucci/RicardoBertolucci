@@ -77,7 +77,7 @@ Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor **Fu
 <p align="left">
   <img
     height="180"
-    src="https://streak-stats.demolab.com/?user=RicardoBertolucci&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=RicardoBertolucci&theme=tokyonight&hide_border=true&cache_bust=20260812"
   />
 </p>
 
