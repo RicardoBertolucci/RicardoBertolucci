@@ -18,7 +18,7 @@ jobs:
           github_user_name: RicardoBertolucci
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3

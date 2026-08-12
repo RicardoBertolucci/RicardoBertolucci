@@ -81,10 +81,12 @@ Formado em Ciência da Computação pelo Mackenzie, atuo como desenvolvedor **Fu
   />
 </p>
 
-### 🐍 Contribution Snake
+<h3 align="center">🐍 Contribution Snake</h3>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoBertolucci/RicardoBertolucci/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoBertolucci/RicardoBertolucci/output/snake.svg" />
   <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/RicardoBertolucci/RicardoBertolucci/output/snake.svg" />
 </picture>
+</p>
