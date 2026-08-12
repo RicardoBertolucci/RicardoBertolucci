@@ -2,12 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # roda a cada 12 horas
+    - cron: "0 3 * * *"   # roda 1x/dia
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Snake
